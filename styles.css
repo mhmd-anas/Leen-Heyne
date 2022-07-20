@@ -1,0 +1,216 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: rgb(238, 238, 238);
+}
+
+.nav {
+  width: 100%;
+  display: flex;
+  position: fixed;
+}
+
+.card-1 {
+    padding-top: 14rem;
+}
+
+.first-div {
+  height: 14vh;
+  width: 33%;
+  padding-top: 43px;
+  font-size: 18px;
+}
+
+.second-div {
+  height: 25vh;
+  width: 33%;
+  background-image: url(https://leenheyne.nl/wp-content/uploads/2020/11/LH_wordmark_header.png);
+  background-size: 21rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -40px;
+}
+
+.third-div {
+  height: 14vh;
+  width: 33%;
+  padding-top: 43px;
+  font-size: 18px;
+}
+
+.first-div a {
+  text-decoration: none;
+  margin-left: 12rem;
+  color: #525252;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.third-div a {
+  text-decoration: none;
+  margin-left: 1rem;
+  color: #525252;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Exceptional case */
+
+#contacts {
+  margin-left: 11rem;
+}
+
+/* ------------------------- */
+
+.card-1 {
+  width: 100%;
+  height: 70vh;
+}
+
+.image-1 {
+  background: url(https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-2523-Edit-1-scaled.jpg);
+  background-size: 400px;
+  height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.text-1 {
+  width: 34%;
+  margin-left: 34rem;
+  font-family: "Signifier-Regular", sans-serif;
+}
+.text-1 h5 {
+  text-align: center;
+  margin-top: 75px;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.77778rem;
+}
+
+.card-2 {
+  width: 100%;
+  height: 70vh;
+}
+
+.image-2 {
+  background: url(https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-2129-Edit-1-scaled.jpg);
+  background-size: 400px;
+  height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 12rem;
+}
+
+.image-3 {
+  background: url(https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-2051-Edit-1-scaled.jpg);
+  background-size: 400px;
+  height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 7rem;
+}
+
+.text-2 {
+  width: 41%;
+  margin-left: 31rem;
+  font-family: "Signifier-Regular", sans-serif;
+}
+
+.text-2 h5 {
+  text-align: center;
+  margin-top: 75px;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.77778rem;
+}
+
+.card-3 {
+  width: 100%;
+  height: 70vh;
+  margin-top: 57rem;
+}
+
+.image-4 {
+  background: url(https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-3101-Edit-1-scaled.jpg);
+  background-size: 400px;
+  height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -3rem;
+}
+
+.image-5 {
+  background: url(https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-2642-Edit-1-scaled.jpg);
+  background-size: 400px;
+  height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 7rem;
+}
+
+.text-3 {
+  width: 41%;
+  margin-left: 30rem;
+  font-family: "Signifier-Regular", sans-serif;
+}
+
+.text-3 h5 {
+  text-align: center;
+  margin-top: 75px;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.77778rem;
+}
+
+.card-4 {
+  width: 100%;
+  height: 70vh;
+  margin-top: 57rem;
+}
+
+.image-6 {
+  background: url(https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-1410-Edit-2-scaled.jpg);
+  background-size: 765px;
+  height: 31rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -4rem;
+}
+
+.image-7 {
+  background: url(https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-1079-Edit-2-1-scaled.jpg);
+  background-size: 400px;
+  height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 7rem;
+}
+
+.footer {
+  width: 100%;
+  height: 85px;
+  margin-top: 47rem;
+}
+
+.footer-items {
+  display: flex;
+  margin-top: 54rem;
+  margin-left: 16rem;
+}
+
+.footer-items p {
+    color: #525252;
+}
+
+.footer-items a {
+  text-decoration: none;
+  margin-left: 27rem;
+  text-decoration: none;
+  color: #525252;
+  font-family: "Times New Roman", Times, serif;
+}
